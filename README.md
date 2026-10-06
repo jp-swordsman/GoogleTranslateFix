@@ -1,5 +1,9 @@
 # Google Translate Fix (GGT)
 
+[![Release](https://img.shields.io/github/v/release/jp-swordsman/GoogleTranslateFix)](https://github.com/jp-swordsman/GoogleTranslateFix/releases)
+[![Stars](https://img.shields.io/github/stars/jp-swordsman/GoogleTranslateFix?style=social)](https://github.com/jp-swordsman/GoogleTranslateFix/stargazers)
+[![License](https://img.shields.io/github/license/jp-swordsman/GoogleTranslateFix)](https://github.com/jp-swordsman/GoogleTranslateFix/blob/main/LICENSE)
+
 一键修复 Google 翻译无法访问的小工具。自动从多个 GitHub 镜像下载可用 IP 列表，并发测速筛选出最快的节点，写入系统 hosts 文件，让 `translate.google.com` / `translate.google.cn` 等域名直连可用。
 
 **支持 Windows 10 / 11，64 位和 32 位。**
