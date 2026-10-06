@@ -1,0 +1,17 @@
+# Build artifacts
+*.exe
+*.syso
+
+# Go
+vendor/
+*.test
+*.out
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
